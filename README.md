@@ -1,4 +1,4 @@
-# Snapchat_Web_Reports
+# Snapchat Web Reports
 Helping preventing botting since 2016
 
 
