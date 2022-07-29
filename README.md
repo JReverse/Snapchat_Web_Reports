@@ -18,3 +18,5 @@ https://dmca.su/WinO6/qigAbUyU36.png
 
 # Notes
 - mutable_username is there original username which can lead to database lookups and possible comprimises so please secure web to prevent this.
+- seems no ratelimit (tried many times)
+- a simple post request can work no browser integrity needed
